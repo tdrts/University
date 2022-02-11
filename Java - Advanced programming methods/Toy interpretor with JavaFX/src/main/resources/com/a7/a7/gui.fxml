@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.a7.a7.GUIController">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Label text="Nr program states: " />
+                  <Text id="textPrgStates" fx:id="textPrgStates" strokeType="OUTSIDE" strokeWidth="0.0" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1">
+         <children>
+            <Label text="Heap" />
+            <TableView id="tableHeap" fx:id="tableHeap" prefHeight="200.0" prefWidth="200.0">
+              <columns>
+                <TableColumn fx:id="heapAddress" prefWidth="115.0" text="Address" />
+                <TableColumn fx:id="heapValue" minWidth="2.0" prefWidth="126.0" text="Value" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+      <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.rowIndex="1">
+         <children>
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <Label text="Out" />
+                  <ListView id="listOut" fx:id="listOut" prefHeight="200.0" prefWidth="200.0" />
+               </children>
+            </VBox>
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <Label text="Files" />
+                  <ListView id="listFiles" fx:id="listFiles" prefHeight="200.0" prefWidth="200.0" />
+               </children>
+            </VBox>
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" HBox.hgrow="ALWAYS">
+               <children>
+                  <Label text="Prg ID" />
+                  <ListView id="listPrgId" fx:id="listPrgId" prefHeight="200.0" prefWidth="200.0" />
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+         <children>
+            <Label text="Sym table for Prg ID" />
+            <TableView id="listSymTable" fx:id="listSymTable" prefHeight="200.0" prefWidth="200.0">
+              <columns>
+                <TableColumn fx:id="symTblName" prefWidth="112.0" text="Variable" />
+                <TableColumn fx:id="symTblValue" prefWidth="131.0" text="Value" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" GridPane.rowIndex="2">
+         <children>
+            <Label text="Exe Stack for Prg ID" />
+            <ListView id="listStack" fx:id="listStack" prefHeight="200.0" prefWidth="200.0" />
+         </children>
+      </VBox>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+         <children>
+            <Button id="buttonOneStep" fx:id="buttonOneStep" mnemonicParsing="false" onAction="#onRunOneStepPressed" text="Run one step" />
+         </children>
+      </VBox>
+   </children>
+</GridPane>

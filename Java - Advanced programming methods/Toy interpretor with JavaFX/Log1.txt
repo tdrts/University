@@ -1,0 +1,392 @@
+
+ID: 2
+Exe Stack
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+int a
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+int a
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+int b
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+int b
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(b=a+1;print(b))
+a=2+3*5
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(b=a+1;print(b))
+a=2+3*5
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(b=a+1;print(b))
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+(b=a+1;print(b))
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+print(b)
+b=a+1
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+print(b)
+b=a+1
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+print(b)
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+print(b)
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+Files
+
+
+ID: 2
+Exe Stack
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+18
+Files
+
+
+ID: 1
+Exe Stack
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+int a
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+int a
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(int b;(a=2+3*5;(b=a+1;print(b))))
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+int b
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+int b
+Sym Table
+a : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(a=2+3*5;(b=a+1;print(b)))
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(b=a+1;print(b))
+a=2+3*5
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(b=a+1;print(b))
+a=2+3*5
+Sym Table
+a : 0
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(b=a+1;print(b))
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(b=a+1;print(b))
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(b)
+b=a+1
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(b)
+b=a+1
+Sym Table
+a : 17
+b : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(b)
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(b)
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+Sym Table
+a : 17
+b : 18
+Heap
+Out
+18
+Files
+

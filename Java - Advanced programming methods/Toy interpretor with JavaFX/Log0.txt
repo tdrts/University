@@ -1,0 +1,101 @@
+
+ID: 1
+Exe Stack
+(int v;(v=2;print(v)))
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(v=2;print(v))
+int v
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(v=2;print(v))
+int v
+Sym Table
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(v=2;print(v))
+Sym Table
+v : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+(v=2;print(v))
+Sym Table
+v : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(v)
+v=2
+Sym Table
+v : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(v)
+v=2
+Sym Table
+v : 0
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(v)
+Sym Table
+v : 2
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+print(v)
+Sym Table
+v : 2
+Heap
+Out
+Files
+
+
+ID: 1
+Exe Stack
+Sym Table
+v : 2
+Heap
+Out
+2
+Files
+
