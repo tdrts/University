@@ -1,0 +1,4 @@
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/CMakeFiles/a89_917TudorTise.dir
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/CMakeFiles/a89_917TudorTise_autogen.dir

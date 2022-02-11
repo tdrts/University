@@ -1,0 +1,6 @@
+1,Lup,Nick22,6,http://google.com
+3,Cha,Lup,7,http://google.com
+6,Cha,Nick,2,http://google.com
+8,Bichon,Bibi,3,http://google.com
+9,Buldog,Bill,2,http://google.com
+10,Russle,Riki,1,http://google.com

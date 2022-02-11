@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a89_917TudorTise"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\Qt\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_917TudorTise">
+				<Option output="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise_autogen/include"/>
+					<Add directory="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/."/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_917TudorTise"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_917TudorTise/fast">
+				<Option output="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add directory="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise_autogen/include"/>
+					<Add directory="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/."/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_917TudorTise/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a89_917TudorTise_autogen">
+				<Option working_dir="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 a89_917TudorTise_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tudor/Desktop/UBB/Foldere\ Eu/An\ 1\ Sem\ 2/OOP/a89-917TudorTise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/User_gui.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/User_gui.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.h">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise_autogen/mocs_compilation.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/main.cpp">
+			<Option target="a89_917TudorTise"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/../../../../../../Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\Qt\5.15.2\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,304 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.cpp
+Admin_gui.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.h
+QLineEdit
+-
+QFormLayout
+-
+QMessageBox
+-
+fstream
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/fstream
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.h
+QWidget
+-
+QPushButton
+-
+QHBoxLayout
+-
+QLabel
+-
+QListWidget
+-
+Service.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.cpp
+Dog.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.h
+string
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/string
+vector
+-
+sstream
+-
+algorithm
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/algorithm
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.h
+iostream
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/iostream
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.cpp
+InputException.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.h
+utility
+-
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.h
+exception
+-
+string
+-
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.cpp
+Repo.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h
+fstream
+-
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h
+iostream
+-
+vector
+-
+Dog.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.cpp
+Repo_csv.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.h
+fstream
+-
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.h
+Repo.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.cpp
+Repo_html.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.h
+fstream
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/fstream
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.h
+Repo.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.cpp
+Service.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.h
+string.h
+-
+algorithm
+-
+numeric
+-
+InputException.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.h
+Validator.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.h
+Repo.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.cpp
+Ui.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.h
+string
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/string
+fstream
+-
+Validator.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.h
+Service.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Service.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/User_gui.cpp
+User_gui.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/User_gui.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/User_gui.h
+QWidget
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/QWidget
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.cpp
+Validator.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.h
+InputException.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/InputException.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Validator.h
+Dog.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Dog.h
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/cmake-build-debug/a89_917TudorTise_autogen/mocs_compilation.cpp
+
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/main.cpp
+Ui.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Ui.h
+Repo_csv.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_csv.h
+Repo_html.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Repo_html.h
+Admin_gui.h
+/Users/tudor/Desktop/UBB/Foldere Eu/An 1 Sem 2/OOP/a89-917TudorTise/Admin_gui.h
+QApplication
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QApplication
+qapplication.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qapplication.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QFormLayout
+qformlayout.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qformlayout.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QHBoxLayout
+qboxlayout.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qboxlayout.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QLabel
+qlabel.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlabel.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QLineEdit
+qlineedit.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlineedit.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QListWidget
+qlistwidget.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlistwidget.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QMessageBox
+qmessagebox.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qmessagebox.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QPushButton
+qpushbutton.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qpushbutton.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/QWidget
+qwidget.h
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qwidget.h
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qapplication.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qcoreapplication.h
+-
+QtGui/qwindowdefs.h
+-
+QtCore/qpoint.h
+-
+QtCore/qsize.h
+-
+QtGui/qcursor.h
+-
+QtWidgets/qdesktopwidget.h
+-
+QtGui/qguiapplication.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qboxlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qlayout.h
+-
+QtWidgets/qwidget.h
+-
+limits.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qformlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/QLayout
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlineedit.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+QtGui/qtextcursor.h
+-
+QtCore/qstring.h
+-
+QtCore/qmargins.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qlistwidget.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qlistview.h
+-
+QtCore/qvariant.h
+-
+QtCore/qvector.h
+-
+QtCore/qitemselectionmodel.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qmessagebox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
+/Users/tudor/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers/qwidget.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qwindowdefs.h
+-
+QtCore/qobject.h
+-
+QtCore/qmargins.h
+-
+QtGui/qpaintdevice.h
+-
+QtGui/qpalette.h
+-
+QtGui/qfont.h
+-
+QtGui/qfontmetrics.h
+-
+QtGui/qfontinfo.h
+-
+QtWidgets/qsizepolicy.h
+-
+QtGui/qregion.h
+-
+QtGui/qbrush.h
+-
+QtGui/qcursor.h
+-
+QtGui/qkeysequence.h
+-
+QtGui/qevent.h
+-
+
